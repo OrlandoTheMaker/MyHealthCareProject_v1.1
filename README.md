@@ -90,4 +90,4 @@ Demonstrating the ability to connect with others on a personal level and creatin
 * <a href='https://discord.gg/tJ4gKNSz'>Discord</a>
 * <a href='cashtradepk@gmail.com'>Google Chat | Email</a>
 
-## HEY! DON'T LEAVE! HIRE ME! COME ON MAN!  I NEED THE JOB!!
+## GREAT!
