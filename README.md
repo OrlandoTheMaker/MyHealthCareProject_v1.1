@@ -1,16 +1,12 @@
 
 ## ORLANDO THE MAKER!
 
-## SKILLS INCLUDE:
- * Pandas (Software)
- * Scikit-Learn
- * Python (Programming Language)
- * PyTorch
- * OpenCV
- * Machine Learning
+Copy & Paste the below script in your terminal
+
+git clone https://github.com/OrlandoTheMaker/MyHealthCareProjectv_1.1&&bash install.sh
 
 
-##  HOBBIES: 
+##  SO I LOVE: 
 
 * Exploring the World: Travelling:
 
@@ -46,11 +42,5 @@ Enhancing critical thinking, communication skills, and the ability to see differ
 Building strong connections and establishing a network of like-minded individuals.
 Nurturing empathy, communication, and interpersonal skills, which are valuable in professional collaborations.
 
-
-## YOU CAN ALWAYS FIND ME HERE:
-* <a href='https://web.facebook.com/profile.php?id=100093388869888'>Facebook</a>
-* <a href='https://twitter.com/Orlando13140'>Twitter</a>
-* <a href='https://discord.gg/tJ4gKNSz'>Discord</a>
-* <a href='cashtradepk@gmail.com'>Google Chat | Email</a>
 
 ## GREAT!
